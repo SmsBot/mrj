@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mrj"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="Num">вӹзӹмшӹ</l>
+         <stg>
+            <st Contlex="NUM_">вӹзӹмшӹ</st>
+         </stg>
+         <stress>вӹзӹ•мшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">viides</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">вӹзӹт</l>
+         <stg>
+            <st Contlex="NUM_">вӹзӹт</st>
+         </stg>
+         <stress>вӹ•зӹт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">вӹц</l>
+         <stg>
+            <st Contlex="NUM_">вӹц</st>
+         </stg>
+         <stress>вӹц</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">viisi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">вӹцлӹ</l>
+         <stg>
+            <st Contlex="NUM_">вӹцлӹ</st>
+         </stg>
+         <stress>вӹ•цлӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="fst">
+      <lg>
+         <l pos="Num">вӹцлӹшӹ</l>
+         <stg>
+            <st Contlex="NUM_">вӹцлӹшӹ</st>
+         </stg>
+         <stress>вӹцлӹ•шӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">viideskymmenes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">вӹцшӱдӹ</l>
+         <stg>
+            <st Contlex="NUM_">вӹцшӱдӹ</st>
+         </stg>
+         <stress>вӹцшӱ•дӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">viisisataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="fst">
+      <lg>
+         <l pos="Num">вӹцшӱдӹшӹ</l>
+         <stg>
+            <st Contlex="NUM_">вӹцшӱдӹшӹ</st>
+         </stg>
+         <stress>вӹцшӱ•дӹшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ик</l>
+         <stg>
+            <st Contlex="NUM_">ик</st>
+         </stg>
+         <stress>ик</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="eng">
+            <t pos="Num">one</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Num">yksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ик-кок</l>
+         <stg>
+            <st Contlex="NUM_">ик-кок</st>
+         </stg>
+         <stress>ик-кок</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">иктӓк-пелӓк</l>
+         <stg>
+            <st Contlex="NUM_">иктӓк-пелӓк</st>
+         </stg>
+         <stress>иктӓ•к-пелӓ•к</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">иктӹ</l>
+         <stg>
+            <st Contlex="NUM_">иктӹ</st>
+         </stg>
+         <stress>и•ктӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">иктӹт</l>
+         <stg>
+            <st Contlex="NUM_">иктӹт</st>
+         </stg>
+         <stress>и•ктӹт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">икшӹ</l>
+         <stg>
+            <st Contlex="NUM_">икшӹ</st>
+         </stg>
+         <stress>и•кшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кок</l>
+         <stg>
+            <st Contlex="NUM_">кок</st>
+         </stg>
+         <stress>кок</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">коклы</l>
+         <stg>
+            <st Contlex="NUM_">коклы</st>
+         </stg>
+         <stress>ко•клы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="fst">
+      <lg>
+         <l pos="Num">коклышы</l>
+         <stg>
+            <st Contlex="NUM_">коклышы</st>
+         </stg>
+         <stress>ко•клышы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кокты</l>
+         <stg>
+            <st Contlex="NUM_">кокты</st>
+         </stg>
+         <stress>ко•кты</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">коктыт</l>
+         <stg>
+            <st Contlex="NUM_">коктыт</st>
+         </stg>
+         <stress>ко•ктыт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кокшы</l>
+         <stg>
+            <st Contlex="NUM_">кокшы</st>
+         </stg>
+         <stress>ко•кшы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">toinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кокшӱдӹ</l>
+         <stg>
+            <st Contlex="NUM_">кокшӱдӹ</st>
+         </stg>
+         <stress>кокшӱ•дӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksisataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="fst">
+      <lg>
+         <l pos="Num">кокшӱдӹшӹ</l>
+         <stg>
+            <st Contlex="NUM_">кокшӱдӹшӹ</st>
+         </stg>
+         <stress>кокшӱ•дӹшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdessadas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">куд</l>
+         <stg>
+            <st Contlex="NUM_">куд</st>
+         </stg>
+         <stress>ку•д</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">куд-шӹм</l>
+         <stg>
+            <st Contlex="NUM_">куд-шӹм</st>
+         </stg>
+         <stress>ку•д-шӹ•м</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кудлу</l>
+         <stg>
+            <st Contlex="NUM_">кудлу</st>
+         </stg>
+         <stress>ку•длу</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кудлушы</l>
+         <stg>
+            <st Contlex="NUM_">кудлушы</st>
+         </stg>
+         <stress>кудлу•шы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кудшӱдӹ</l>
+         <stg>
+            <st Contlex="NUM_">кудшӱдӹ</st>
+         </stg>
+         <stress>кудшӱ•дӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusisataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="fst">
+      <lg>
+         <l pos="Num">кудшӱдӹшӹ</l>
+         <stg>
+            <st Contlex="NUM_">кудшӱдӹшӹ</st>
+         </stg>
+         <stress>кудшӱ•дӹшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kuudessadas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кудымшы</l>
+         <stg>
+            <st Contlex="NUM_">кудымшы</st>
+         </stg>
+         <stress>ку•дымшы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кудыт</l>
+         <stg>
+            <st Contlex="NUM_">кудыт</st>
+         </stg>
+         <stress>ку•дыт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кым</l>
+         <stg>
+            <st Contlex="NUM_">кым</st>
+         </stg>
+         <stress>кым</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кымлы</l>
+         <stg>
+            <st Contlex="NUM_">кымлы</st>
+         </stg>
+         <stress>кы•млы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кымлышы</l>
+         <stg>
+            <st Contlex="NUM_">кымлышы</st>
+         </stg>
+         <stress>кы•млышы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="fst">
+      <lg>
+         <l pos="Num">кымшы</l>
+         <stg>
+            <st Contlex="NUM_">кымшы</st>
+         </stg>
+         <stress>кы•мшы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кымшӱдӹ</l>
+         <stg>
+            <st Contlex="NUM_">кымшӱдӹ</st>
+         </stg>
+         <stress>кымшӱ•дӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmesataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кымыт</l>
+         <stg>
+            <st Contlex="NUM_">кымыт</st>
+         </stg>
+         <stress>кы•мыт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кӓндӓкш</l>
+         <stg>
+            <st Contlex="NUM_">кӓндӓкш</st>
+         </stg>
+         <stress>кӓндӓ•кш</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кӓндӓкшлу</l>
+         <stg>
+            <st Contlex="NUM_">кӓндӓкшлу</st>
+         </stg>
+         <stress>кӓндӓ•кшлу</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="fst">
+      <lg>
+         <l pos="Num">кӓндӓкшлушы</l>
+         <stg>
+            <st Contlex="NUM_">кӓндӓкшлушы</st>
+         </stg>
+         <stress>кӓндӓкшлу•шы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksastoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кӓндӓкшшӱдӹ</l>
+         <stg>
+            <st Contlex="NUM_">кӓндӓкшшӱдӹ</st>
+         </stg>
+         <stress>кӓндӓкшшӱ•дӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksansataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кӓндӓкшшӱдӹшӹ</l>
+         <stg>
+            <st Contlex="NUM_">кӓндӓкшшӱдӹшӹ</st>
+         </stg>
+         <stress>кӓндӓкшшӱ•дӹшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksassadas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кӓндӓкшӹ</l>
+         <stg>
+            <st Contlex="NUM_">кӓндӓкшӹ</st>
+         </stg>
+         <stress>кӓндӓ•кшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">кӓндӓкшӹмшӹ</l>
+         <stg>
+            <st Contlex="NUM_">кӓндӓкшӹмшӹ</st>
+         </stg>
+         <stress>кӓндӓ•кшӹмшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">лу</l>
+         <stg>
+            <st Contlex="NUM_">лу</st>
+         </stg>
+         <stress>лу</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kymmenen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луатвӹзӹт</l>
+         <stg>
+            <st Contlex="NUM_">луатвӹзӹт</st>
+         </stg>
+         <stress>луатвӹ•зӹт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луатвӹц</l>
+         <stg>
+            <st Contlex="NUM_">луатвӹц</st>
+         </stg>
+         <stress>луатвӹ•ц</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">viisitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луатик</l>
+         <stg>
+            <st Contlex="NUM_">луатик</st>
+         </stg>
+         <stress>луати•к</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">yksitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луатиктӹ</l>
+         <stg>
+            <st Contlex="NUM_">луатиктӹ</st>
+         </stg>
+         <stress>луати•ктӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луаткок</l>
+         <stg>
+            <st Contlex="NUM_">луаткок</st>
+         </stg>
+         <stress>луатко•к</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луаткокты</l>
+         <stg>
+            <st Contlex="NUM_">луаткокты</st>
+         </stg>
+         <stress>луатко•кты</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луаткуд</l>
+         <stg>
+            <st Contlex="NUM_">луаткуд</st>
+         </stg>
+         <stress>луатку•д</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луаткудыт</l>
+         <stg>
+            <st Contlex="NUM_">луаткудыт</st>
+         </stg>
+         <stress>луатку•дыт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луаткым</l>
+         <stg>
+            <st Contlex="NUM_">луаткым</st>
+         </stg>
+         <stress>луаткы•м</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmetoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луаткымыт</l>
+         <stg>
+            <st Contlex="NUM_">луаткымыт</st>
+         </stg>
+         <stress>луаткы•мыт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луаткӓндӓкш</l>
+         <stg>
+            <st Contlex="NUM_">луаткӓндӓкш</st>
+         </stg>
+         <stress>луаткӓндӓ•кш</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksantoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="fst">
+      <lg>
+         <l pos="Num">луаткӓндӓкшӹ</l>
+         <stg>
+            <st Contlex="NUM_">луаткӓндӓкшӹ</st>
+         </stg>
+         <stress>луаткӓндӓ•кшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksastoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луатнӹл</l>
+         <stg>
+            <st Contlex="NUM_">луатнӹл</st>
+         </stg>
+         <stress>луатнӹ•л</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">neljätoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луатнӹлӹт</l>
+         <stg>
+            <st Contlex="NUM_">луатнӹлӹт</st>
+         </stg>
+         <stress>луатнӹ•лӹт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луатшӹм</l>
+         <stg>
+            <st Contlex="NUM_">луатшӹм</st>
+         </stg>
+         <stress>луатшӹ•м</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemäntoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луатшӹмӹт</l>
+         <stg>
+            <st Contlex="NUM_">луатшӹмӹт</st>
+         </stg>
+         <stress>луатшӹ•мӹт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луатӹндекш</l>
+         <stg>
+            <st Contlex="NUM_">луатӹндекш</st>
+         </stg>
+         <stress>луатӹнде•кш</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луатӹндекшӹ</l>
+         <stg>
+            <st Contlex="NUM_">луатӹндекшӹ</st>
+         </stg>
+         <stress>луатӹнде•кшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">луцкы</l>
+         <stg>
+            <st Contlex="NUM_">луцкы</st>
+         </stg>
+         <stress>лу•цкы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">лушы</l>
+         <stg>
+            <st Contlex="NUM_">лушы</st>
+         </stg>
+         <stress>лу•шы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">миллиард</l>
+         <stg>
+            <st Contlex="NUM_">миллиард</st>
+         </stg>
+         <stress>миллиа•рд</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">миллион</l>
+         <stg>
+            <st Contlex="NUM_">миллион</st>
+         </stg>
+         <stress>миллио•н</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">нӹл</l>
+         <stg>
+            <st Contlex="NUM_">нӹл</st>
+         </stg>
+         <stress>нӹл</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">нӹллӹ</l>
+         <stg>
+            <st Contlex="NUM_">нӹллӹ</st>
+         </stg>
+         <stress>нӹ•ллӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">нӹллӹшӹ</l>
+         <stg>
+            <st Contlex="NUM_">нӹллӹшӹ</st>
+         </stg>
+         <stress>нӹ•ллӹшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">нӹлшӱдӹ</l>
+         <stg>
+            <st Contlex="NUM_">нӹлшӱдӹ</st>
+         </stg>
+         <stress>нӹлшӱ•дӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">нӹлшӱдӹшӹ</l>
+         <stg>
+            <st Contlex="NUM_">нӹлшӱдӹшӹ</st>
+         </stg>
+         <stress>нӹлшӱ•дӹшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">нӹлӹмшӹ</l>
+         <stg>
+            <st Contlex="NUM_">нӹлӹмшӹ</st>
+         </stg>
+         <stress>нӹ•лӹмшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">нӹлӹт</l>
+         <stg>
+            <st Contlex="NUM_">нӹлӹт</st>
+         </stg>
+         <stress>нӹ•лӹт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">триллион</l>
+         <stg>
+            <st Contlex="NUM_">триллион</st>
+         </stg>
+         <stress>триллио•н</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">тӹжем</l>
+         <stg>
+            <st Contlex="NUM_">тӹжем</st>
+         </stg>
+         <stress>тӹже•м</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">тӹжемшӹ</l>
+         <stg>
+            <st Contlex="NUM_">тӹжемшӹ</st>
+         </stg>
+         <stress>тӹже•мшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">шӱдӹ</l>
+         <stg>
+            <st Contlex="NUM_">шӱдӹ</st>
+         </stg>
+         <stress>шӱ•дӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">шӱдӹшӹ</l>
+         <stg>
+            <st Contlex="NUM_">шӱдӹшӹ</st>
+         </stg>
+         <stress>шӱ•дӹшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">шӹм</l>
+         <stg>
+            <st Contlex="NUM_">шӹм</st>
+         </stg>
+         <stress>шӹм</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">шӹмлу</l>
+         <stg>
+            <st Contlex="NUM_">шӹмлу</st>
+         </stg>
+         <stress>шӹ•млу</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">шӹмлушы</l>
+         <stg>
+            <st Contlex="NUM_">шӹмлушы</st>
+         </stg>
+         <stress>шӹмлу•шы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">шӹмшӱдӹ</l>
+         <stg>
+            <st Contlex="NUM_">шӹмшӱдӹ</st>
+         </stg>
+         <stress>шӹмшӱ•дӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">шӹмшӱдӹшӹ</l>
+         <stg>
+            <st Contlex="NUM_">шӹмшӱдӹшӹ</st>
+         </stg>
+         <stress>шӹмшӱ•дӹшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">шӹмшӹ</l>
+         <stg>
+            <st Contlex="NUM_">шӹмшӹ</st>
+         </stg>
+         <stress>шӹ•мшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">шӹмӹт</l>
+         <stg>
+            <st Contlex="NUM_">шӹмӹт</st>
+         </stg>
+         <stress>шӹ•мӹт</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ӹндекш</l>
+         <stg>
+            <st Contlex="NUM_">ӹндекш</st>
+         </stg>
+         <stress>ӹнде•кш</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num"/>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ӹндекшлу</l>
+         <stg>
+            <st Contlex="NUM_">ӹндекшлу</st>
+         </stg>
+         <stress>ӹнде•кшлу</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ӹндекшлушы</l>
+         <stg>
+            <st Contlex="NUM_">ӹндекшлушы</st>
+         </stg>
+         <stress>ӹндекшлу•шы</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksäskymmenes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ӹндекшшӱдӹ</l>
+         <stg>
+            <st Contlex="NUM_">ӹндекшшӱдӹ</st>
+         </stg>
+         <stress>ӹндекшшӱ•дӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänsataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ӹндекшшӱдӹшӹ</l>
+         <stg>
+            <st Contlex="NUM_">ӹндекшшӱдӹшӹ</st>
+         </stg>
+         <stress>ӹндекшшӱ•дӹшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksässadas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ӹндекшӹ</l>
+         <stg>
+            <st Contlex="NUM_">ӹндекшӹ</st>
+         </stg>
+         <stress>ӹнде•кшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ӹндекшӹмшӹ</l>
+         <stg>
+            <st Contlex="NUM_">ӹндекшӹмшӹ</st>
+         </stg>
+         <stress>ӹнде•кшӹмшӹ</stress>
+      </lg>
+      <pos>Num</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksäs</t>
+         </tg>
+      </mg>
+   </e>
+</r>
