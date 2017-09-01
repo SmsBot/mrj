@@ -607,7 +607,7 @@
       <defNative>Саваткова: усилительн.част.</defNative>
 
       <tg xml:lang="fin">
-        <tf pos="Pcle">sitä myös</tf>
+        <t t_type="tf" pos="Pcle">sitä myös</t>
 
         <t pos="Pcle">-han</t>
 
@@ -819,7 +819,7 @@
       <tg xml:lang="fin">
         <t pos="Pcle">noh</t>
 
-        <tf pos="Pcle">äläpäs nyt</tf>
+        <t t_type="tf" pos="Pcle">äläpäs nyt</t>
       </tg>
     </mg>
   </e>
@@ -839,9 +839,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="Pcle">noh</tf>
+        <t t_type="tf" pos="Pcle">noh</t>
 
-        <tf pos="Pcle">älkääpä nyt</tf>
+        <t t_type="tf" pos="Pcle">älkääpä nyt</t>
       </tg>
     </mg>
   </e>
@@ -1355,7 +1355,7 @@
       <tg xml:lang="fin">
         <t pos="Pcle">just</t>
 
-        <tf pos="Pcle">justiinsa</tf>
+        <t t_type="tf" pos="Pcle">justiinsa</t>
       </tg>
 
       <xg>
@@ -1381,9 +1381,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="Pcle">tosi paljon</tf>
+        <t t_type="tf" pos="Pcle">tosi paljon</t>
 
-        <tf pos="Pcle">ollenkaan</tf>
+        <t t_type="tf" pos="Pcle">ollenkaan</t>
 
         <t pos="Pcle">pahus</t>
       </tg>
@@ -1529,7 +1529,7 @@
       <tg xml:lang="fin">
         <t pos="Pcle">näes</t>
 
-        <tf pos="Pcle">kas tässä</tf>
+        <t t_type="tf" pos="Pcle">kas tässä</t>
       </tg>
     </mg>
   </e>
@@ -1549,7 +1549,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="Pcle">ei ole</tf>
+        <t t_type="tf" pos="Pcle">ei ole</t>
       </tg>
     </mg>
   </e>
@@ -1571,7 +1571,7 @@
       <tg xml:lang="fin">
         <t pos="Pcle">olemassa</t>
 
-        <tf pos="Pcle">on olemassa</tf>
+        <t t_type="tf" pos="Pcle">on olemassa</t>
       </tg>
     </mg>
   </e>
@@ -1731,7 +1731,7 @@
         <td pos="Pcle">imperatiiviverbin liittepartikkelina ilmaisee
         kohteliasta käskyä</td>
 
-        <tf pos="Pcle">=pA</tf>
+        <t t_type="tf" pos="Pcle">=pA</t>
       </tg>
 
       <xg>

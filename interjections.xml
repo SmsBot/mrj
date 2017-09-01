@@ -425,11 +425,11 @@
          <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="Interj">sinne se meni</tf>
+        <t t_type="tf" pos="Interj">sinne se meni</t>
 
-        <tf pos="Interj">sinne meni</tf>
+        <t t_type="tf" pos="Interj">sinne meni</t>
 
-        <tf pos="Interj">sinne hujahti</tf>
+        <t t_type="tf" pos="Interj">sinne hujahti</t>
 
         <td pos="Interj">jnk katoamisesta</td>
       </tg>
@@ -479,7 +479,7 @@
       <tg xml:lang="fin">
         <t pos="Pcle">niinkö</t>
 
-        <tf pos="Pcle">ihanko totta</tf>
+        <t t_type="tf" pos="Pcle">ihanko totta</t>
       </tg>
 
       <xg>

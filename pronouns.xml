@@ -137,7 +137,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">joku toinen</tf>
+            <t t_type="tf" pos="Pron">joku toinen</t>
          </tg>
       </mg>
    </e>
@@ -156,7 +156,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jossain muualla</tf>
+            <t t_type="tf" pos="Pron">jossain muualla</t>
          </tg>
       </mg>
    </e>
@@ -176,7 +176,7 @@
          </m>
          <tg xml:lang="fin">
             <t pos="Pron">joskus</t>
-            <tf pos="Pron">joku kerta</tf>
+            <t t_type="tf" pos="Pron">joku kerta</t>
          </tg>
       </mg>
    </e>
@@ -367,7 +367,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jonkin verran</tf>
+            <t t_type="tf" pos="Pron">jonkin verran</t>
          </tg>
       </mg>
    </e>
@@ -386,7 +386,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jonkin verran</tf>
+            <t t_type="tf" pos="Pron">jonkin verran</t>
          </tg>
       </mg>
    </e>
@@ -405,7 +405,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jonkin verran</tf>
+            <t t_type="tf" pos="Pron">jonkin verran</t>
          </tg>
       </mg>
    </e>
@@ -424,7 +424,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jonkin verran</tf>
+            <t t_type="tf" pos="Pron">jonkin verran</t>
          </tg>
       </mg>
    </e>
@@ -521,7 +521,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jonkin verran</tf>
+            <t t_type="tf" pos="Pron">jonkin verran</t>
          </tg>
       </mg>
    </e>
@@ -540,7 +540,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jonkin verran</tf>
+            <t t_type="tf" pos="Pron">jonkin verran</t>
          </tg>
       </mg>
    </e>
@@ -617,7 +617,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">toinen toisen</tf>
+            <t t_type="tf" pos="Pron">toinen toisen</t>
          </tg>
          <xg>
             <x>иктӹ-весӹштӹлӓн</x>
@@ -660,7 +660,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">toinen toisen</tf>
+            <t t_type="tf" pos="Pron">toinen toisen</t>
          </tg>
       </mg>
    </e>
@@ -679,7 +679,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">toinen toisen</tf>
+            <t t_type="tf" pos="Pron">toinen toisen</t>
          </tg>
       </mg>
    </e>
@@ -870,7 +870,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">kuka tahansa</tf>
+            <t t_type="tf" pos="Pron">kuka tahansa</t>
          </tg>
       </mg>
    </e>
@@ -889,7 +889,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">mikä tahansa</tf>
+            <t t_type="tf" pos="Pron">mikä tahansa</t>
          </tg>
       </mg>
    </e>
@@ -927,7 +927,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">minkälainen tahansa</tf>
+            <t t_type="tf" pos="Pron">minkälainen tahansa</t>
          </tg>
       </mg>
    </e>
@@ -968,7 +968,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">kuka tahansa</tf>
+            <t t_type="tf" pos="Pron">kuka tahansa</t>
          </tg>
       </mg>
    </e>
@@ -1139,7 +1139,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">kuka näistä; kumpi näistä</tf>
+            <t t_type="tf" pos="Pron">kuka näistä; kumpi näistä</t>
          </tg>
       </mg>
    </e>
@@ -1180,7 +1180,7 @@
          <tg xml:lang="fin">
             <t pos="Pron">joskus</t>
             <t pos="Pron">jolloinkin</t>
-            <tf pos="Pron">ennemmin tai myöhemmin</tf>
+            <t t_type="tf" pos="Pron">ennemmin tai myöhemmin</t>
          </tg>
       </mg>
    </e>
@@ -1199,7 +1199,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">silloin-tällöin</tf>
+            <t t_type="tf" pos="Pron">silloin-tällöin</t>
          </tg>
       </mg>
    </e>
@@ -1218,8 +1218,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">mihin aikaan</tf>
-            <tf pos="Pron">joksi aikaa</tf>
+            <t t_type="tf" pos="Pron">mihin aikaan</t>
+            <t t_type="tf" pos="Pron">joksi aikaa</t>
          </tg>
       </mg>
    </e>
@@ -1238,7 +1238,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jostakin ajasta lähtien</tf>
+            <t t_type="tf" pos="Pron">jostakin ajasta lähtien</t>
          </tg>
       </mg>
    </e>
@@ -1257,7 +1257,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">minkä aikainen</tf>
+            <t t_type="tf" pos="Pron">minkä aikainen</t>
          </tg>
       </mg>
    </e>
@@ -1373,7 +1373,7 @@
          <tg xml:lang="fin">
             <t pos="Pron">miten</t>
             <t pos="Pron">kuten</t>
-            <tf pos="Pron">millä tavalla</tf>
+            <t t_type="tf" pos="Pron">millä tavalla</t>
          </tg>
       </mg>
    </e>
@@ -1392,8 +1392,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">miten tahansa</tf>
-            <tf pos="Pron">millä tavalla tahansa</tf>
+            <t t_type="tf" pos="Pron">miten tahansa</t>
+            <t t_type="tf" pos="Pron">millä tavalla tahansa</t>
          </tg>
       </mg>
    </e>
@@ -1470,7 +1470,7 @@
          </m>
          <tg xml:lang="fin">
             <t pos="Pron">jonnekin</t>
-            <tf pos="Pron">mihin tahansa</tf>
+            <t t_type="tf" pos="Pron">mihin tahansa</t>
          </tg>
       </mg>
    </e>
@@ -1508,7 +1508,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">mihin tahansa</tf>
+            <t t_type="tf" pos="Pron">mihin tahansa</t>
          </tg>
       </mg>
    </e>
@@ -2078,7 +2078,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">kuka tahansa</tf>
+            <t t_type="tf" pos="Pron">kuka tahansa</t>
          </tg>
       </mg>
    </e>
@@ -2269,7 +2269,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">kuinka paljon</tf>
+            <t t_type="tf" pos="Pron">kuinka paljon</t>
          </tg>
       </mg>
    </e>
@@ -2288,7 +2288,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jonkin verran</tf>
+            <t t_type="tf" pos="Pron">jonkin verran</t>
          </tg>
       </mg>
    </e>
@@ -2307,7 +2307,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jonkin verran</tf>
+            <t t_type="tf" pos="Pron">jonkin verran</t>
          </tg>
       </mg>
    </e>
@@ -2326,7 +2326,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">minkä hintainen</tf>
+            <t t_type="tf" pos="Pron">minkä hintainen</t>
          </tg>
       </mg>
    </e>
@@ -2345,7 +2345,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">millä hinnalla</tf>
+            <t t_type="tf" pos="Pron">millä hinnalla</t>
          </tg>
       </mg>
    </e>
@@ -2364,7 +2364,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">miten paljon</tf>
+            <t t_type="tf" pos="Pron">miten paljon</t>
          </tg>
       </mg>
    </e>
@@ -2402,8 +2402,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jonkin takia</tf>
-            <tf pos="Pron">jonkin vuoksi</tf>
+            <t t_type="tf" pos="Pron">jonkin takia</t>
+            <t t_type="tf" pos="Pron">jonkin vuoksi</t>
          </tg>
       </mg>
    </e>
@@ -2422,7 +2422,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">jonkin takia</tf>
+            <t t_type="tf" pos="Pron">jonkin takia</t>
          </tg>
       </mg>
    </e>
@@ -2442,7 +2442,7 @@
          </m>
          <tg xml:lang="fin">
             <t pos="Pron">miksi</t>
-            <tf pos="Pron">minkä takia</tf>
+            <t t_type="tf" pos="Pron">minkä takia</t>
          </tg>
       </mg>
    </e>
@@ -2462,8 +2462,8 @@
          </m>
          <tg xml:lang="fin">
             <t pos="Pron">montako</t>
-            <tf pos="Pron">kuinka paljon</tf>
-            <tf pos="Pron">miten paljon</tf>
+            <t t_type="tf" pos="Pron">kuinka paljon</t>
+            <t t_type="tf" pos="Pron">miten paljon</t>
          </tg>
       </mg>
    </e>
@@ -2596,7 +2596,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">minkälainen tahansa</tf>
+            <t t_type="tf" pos="Pron">minkälainen tahansa</t>
          </tg>
       </mg>
    </e>
@@ -2615,7 +2615,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">minkälainen sellainen</tf>
+            <t t_type="tf" pos="Pron">minkälainen sellainen</t>
          </tg>
       </mg>
    </e>
@@ -2960,7 +2960,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">ei missään</tf>
+            <t t_type="tf" pos="Pron">ei missään</t>
          </tg>
       </mg>
    </e>
@@ -3036,7 +3036,7 @@
             <defNative>синоним: нигыцеӓт</defNative>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">ei millään</tf>
+            <t t_type="tf" pos="Pron">ei millään</t>
          </tg>
       </mg>
    </e>
@@ -3093,8 +3093,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">ei mikään</tf>
-            <tf pos="Pron">ei mitään</tf>
+            <t t_type="tf" pos="Pron">ei mikään</t>
+            <t t_type="tf" pos="Pron">ei mitään</t>
          </tg>
       </mg>
    </e>
@@ -3246,7 +3246,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">sen takia</tf>
+            <t t_type="tf" pos="Pron">sen takia</t>
          </tg>
       </mg>
    </e>
@@ -3265,7 +3265,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">sen takia</tf>
+            <t t_type="tf" pos="Pron">sen takia</t>
          </tg>
       </mg>
    </e>
@@ -4429,9 +4429,9 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">niin paljon</tf>
-            <tf pos="Pron">näin paljon</tf>
-            <tf pos="Pron">yhtä paljon</tf>
+            <t t_type="tf" pos="Pron">niin paljon</t>
+            <t t_type="tf" pos="Pron">näin paljon</t>
+            <t t_type="tf" pos="Pron">yhtä paljon</t>
          </tg>
       </mg>
    </e>
@@ -4450,9 +4450,9 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">niin paljon</tf>
-            <tf pos="Pron">näin paljon</tf>
-            <tf pos="Pron">yhtä paljon</tf>
+            <t t_type="tf" pos="Pron">niin paljon</t>
+            <t t_type="tf" pos="Pron">näin paljon</t>
+            <t t_type="tf" pos="Pron">yhtä paljon</t>
          </tg>
       </mg>
    </e>
@@ -4471,8 +4471,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">niin paljon</tf>
-            <tf pos="Pron">näin paljon</tf>
+            <t t_type="tf" pos="Pron">niin paljon</t>
+            <t t_type="tf" pos="Pron">näin paljon</t>
          </tg>
       </mg>
    </e>
@@ -4529,7 +4529,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Pron">tähän asti</tf>
+            <t t_type="tf" pos="Pron">tähän asti</t>
          </tg>
       </mg>
    </e>

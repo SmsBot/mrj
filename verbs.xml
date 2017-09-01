@@ -21594,7 +21594,7 @@
        <t pos="V">laahustaa</t>
        <t pos="V">kulkea raahustaa</t>
        <t pos="V">kävellä laahustaa</t>
-       <t pos="V">kävellä hitaasti</t> <tf/>
+       <t pos="V">kävellä hitaasti</t> <t t_type="tf"/>
      </tg>
    </mg>
 </e>
@@ -46038,7 +46038,7 @@
    </mg>
    <mg> <defNative/>
      <tg xml:lang="fin">
-       <t pos="V">tihuttaa</t> <tf pos="V">sataa tihkusadetta</tf>
+       <t pos="V">tihuttaa</t> <t t_type="tf" pos="V">sataa tihkusadetta</t>
      </tg>
      <xg> <x>юр шӹведӓ</x>
        <xt>sataa ripottelee (jk)</xt>

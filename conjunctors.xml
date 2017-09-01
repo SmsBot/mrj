@@ -145,9 +145,9 @@
       <tg xml:lang="fin">
         <t pos="Conj">kuin</t>
 
-        <tf pos="Conj">ikään kuin</tf>
+        <t t_type="tf" pos="Conj">ikään kuin</t>
 
-        <tf pos="Conj">aivan kuin</tf>
+        <t t_type="tf" pos="Conj">aivan kuin</t>
 
         <t pos="Pcle">mukamas</t>
       </tg>
@@ -557,9 +557,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Conj">sen sijaan</tf>
+        <t t_type="tf" pos="Conj">sen sijaan</t>
 
-        <tf pos="Conj">sitä vastoin</tf>
+        <t t_type="tf" pos="Conj">sitä vastoin</t>
       </tg>
     </mg>
   </e>
@@ -591,11 +591,11 @@
 
         <t pos="Conj">joskin</t>
 
-        <tf pos="Conj">jos kohta</tf>
+        <t t_type="tf" pos="Conj">jos kohta</t>
 
-        <tf pos="Conj">vaikkakaan ei</tf>
+        <t t_type="tf" pos="Conj">vaikkakaan ei</t>
 
-        <tf pos="Conj">joskaan ei</tf>
+        <t t_type="tf" pos="Conj">joskaan ei</t>
       </tg>
 
       <xg>
@@ -667,7 +667,7 @@
       <tg xml:lang="fin">
         <t pos="CC">tai</t>
 
-        <tf pos="CC">joko tai</tf>
+        <t t_type="tf" pos="CC">joko tai</t>
       </tg>
     </mg>
   </e>
@@ -722,7 +722,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="CC">ei ... eikä</tf>
+        <t t_type="tf" pos="CC">ei ... eikä</t>
       </tg>
     </mg>
   </e>
@@ -776,7 +776,7 @@
       <tg xml:lang="fin">
         <t pos="Conj">koska</t>
 
-        <tf pos="Conj">sen takia</tf>
+        <t t_type="tf" pos="Conj">sen takia</t>
       </tg>
     </mg>
   </e>
@@ -804,9 +804,9 @@
       <tg xml:lang="fin">
         <t pos="Conj">siksi</t>
 
-        <tf pos="Conj">sen takia</tf>
+        <t t_type="tf" pos="Conj">sen takia</t>
 
-        <tf pos="Conj">sen vuoksi</tf>
+        <t t_type="tf" pos="Conj">sen vuoksi</t>
       </tg>
     </mg>
   </e>
@@ -834,9 +834,9 @@
       <tg xml:lang="fin">
         <t pos="Conj">siksi</t>
 
-        <tf pos="Conj">sen takia</tf>
+        <t t_type="tf" pos="Conj">sen takia</t>
 
-        <tf pos="Conj">sen vuoksi</tf>
+        <t t_type="tf" pos="Conj">sen vuoksi</t>
       </tg>
     </mg>
   </e>
@@ -864,9 +864,9 @@
       <tg xml:lang="fin">
         <t pos="Conj">siksi</t>
 
-        <tf pos="Conj">sen takia</tf>
+        <t t_type="tf" pos="Conj">sen takia</t>
 
-        <tf pos="Conj">sen vuoksi</tf>
+        <t t_type="tf" pos="Conj">sen vuoksi</t>
       </tg>
     </mg>
   </e>
@@ -932,9 +932,9 @@
       <tg xml:lang="fin">
         <t pos="CC">mutta</t>
 
-        <tf>juuri kun</tf>
+        <t t_type="tf">juuri kun</t>
 
-        <tf>heti kun</tf>
+        <t t_type="tf">heti kun</t>
       </tg>
     </mg>
   </e>
@@ -964,7 +964,7 @@
 
         <t pos="CS">muutoin</t>
 
-        <tf>muussa tapauksessa</tf>
+        <t t_type="tf">muussa tapauksessa</t>
       </tg>
     </mg>
   </e>
@@ -990,7 +990,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf>joko ... tai ...</tf>
+        <t t_type="tf">joko ... tai ...</t>
       </tg>
 
       <xg>
@@ -1026,9 +1026,9 @@
       <tg xml:lang="fin">
         <t pos="Conj">siksi</t>
 
-        <tf pos="Conj">sen takia</tf>
+        <t t_type="tf" pos="Conj">sen takia</t>
 
-        <tf pos="Conj">sen vuoksi</tf>
+        <t t_type="tf" pos="Conj">sen vuoksi</t>
       </tg>
     </mg>
   </e>
@@ -1058,7 +1058,7 @@
       <tg xml:lang="fin">
         <t pos="CS">vaikka</t>
 
-        <tf>vaikkakaan ei</tf>
+        <t t_type="tf">vaikkakaan ei</t>
       </tg>
 
       <xg>
